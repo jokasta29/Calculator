@@ -43,8 +43,5 @@ I'm sharing this project to learn and grow as a developer. If you have any sugge
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to your needs.
 
-## Acknowledgments
-
-I would like to express my gratitude to the open-source community for providing valuable resources and support throughout my learning journey. This project wouldn't have been possible without their contributions.
 
 Thank you for visiting my first coding project on GitHub. I hope you find it useful and insightful. Happy coding!
